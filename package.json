@@ -15,11 +15,11 @@
         "multipool",
         "multicoin"
     ],
-    "homepage": "https://github.com/UNOMP/node-merged-pool",
+    "homepage": "https://github.com/ovo-ovo/node-merged-pool",
     "bugs": {
-        "url": "https://github.com/UNOMP/node-merged-pool/issues"
+        "url": "https://github.com/ovo-ovo/node-merged-pool/issues"
     },
-    "license": "GPL-2.0",
+    "license": "GPL-2.0"
     "author": "Daniel Beal",
     "contributors": [
 	"zone117x",
