@@ -19,7 +19,7 @@
     "bugs": {
         "url": "https://github.com/ovoovoovoovo/node-merged-pool/issues"
     },
-    "license": "GPL-2.0"
+    "license": "GPL-2.0",
     "author": "Daniel Beal",
     "contributors": [
 	"zone117x",
